@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów\Textures">
+      <UniqueIdentifier>{d3da834e-c1a4-4ae1-adbe-bcd42cfc1265}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki zasobów\Textures\Pola">
+      <UniqueIdentifier>{e7b8c00b-68eb-48f1-a470-b2560a4fc88c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki zasobów\Textures\Pionki">
+      <UniqueIdentifier>{7bedc1c8-1299-4915-be3b-7c12287a5959}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\pionki">
+      <UniqueIdentifier>{64721d36-e430-4065-8159-02893fffa156}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\pionki">
+      <UniqueIdentifier>{f22dcc6f-d8c9-4882-be1c-59bc26155e8c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SZACHY.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Tpion.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Tszachownica.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Tpole.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Tgoniec.cpp">
+      <Filter>Pliki źródłowe\pionki</Filter>
+    </ClCompile>
+    <ClCompile Include="Thetman.cpp">
+      <Filter>Pliki źródłowe\pionki</Filter>
+    </ClCompile>
+    <ClCompile Include="Tkrol.cpp">
+      <Filter>Pliki źródłowe\pionki</Filter>
+    </ClCompile>
+    <ClCompile Include="Tskoczek.cpp">
+      <Filter>Pliki źródłowe\pionki</Filter>
+    </ClCompile>
+    <ClCompile Include="Twierza.cpp">
+      <Filter>Pliki źródłowe\pionki</Filter>
+    </ClCompile>
+    <ClCompile Include="TzwyklyPionek.cpp">
+      <Filter>Pliki źródłowe\pionki</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Textures\pomaranczowePola.png">
+      <Filter>Pliki zasobów\Textures\Pola</Filter>
+    </Image>
+    <Image Include="Textures\SzarePola.png">
+      <Filter>Pliki zasobów\Textures\Pola</Filter>
+    </Image>
+    <Image Include="Textures\Pionki\bialaWierza.png">
+      <Filter>Pliki zasobów\Textures\Pionki</Filter>
+    </Image>
+    <Image Include="Textures\Pionki\bialyGoniec.png">
+      <Filter>Pliki zasobów\Textures\Pionki</Filter>
+    </Image>
+    <Image Include="Textures\Pionki\bialyHetman.png">
+      <Filter>Pliki zasobów\Textures\Pionki</Filter>
+    </Image>
+    <Image Include="Textures\Pionki\bialyKrol.png">
+      <Filter>Pliki zasobów\Textures\Pionki</Filter>
+    </Image>
+    <Image Include="Textures\Pionki\bialyPionek.png">
+      <Filter>Pliki zasobów\Textures\Pionki</Filter>
+    </Image>
+    <Image Include="Textures\Pionki\bialySkoczek1.png">
+      <Filter>Pliki zasobów\Textures\Pionki</Filter>
+    </Image>
+    <Image Include="Textures\Pionki\białySkoczek2.png">
+      <Filter>Pliki zasobów\Textures\Pionki</Filter>
+    </Image>
+    <Image Include="Textures\Pionki\czarnaWierza.png">
+      <Filter>Pliki zasobów\Textures\Pionki</Filter>
+    </Image>
+    <Image Include="Textures\Pionki\czarnyGoniec.png">
+      <Filter>Pliki zasobów\Textures\Pionki</Filter>
+    </Image>
+    <Image Include="Textures\Pionki\czarnyHetman.png">
+      <Filter>Pliki zasobów\Textures\Pionki</Filter>
+    </Image>
+    <Image Include="Textures\Pionki\czarnyKrol.png">
+      <Filter>Pliki zasobów\Textures\Pionki</Filter>
+    </Image>
+    <Image Include="Textures\Pionki\czarnyPionek.png">
+      <Filter>Pliki zasobów\Textures\Pionki</Filter>
+    </Image>
+    <Image Include="Textures\Pionki\czarnySkoczek1.png">
+      <Filter>Pliki zasobów\Textures\Pionki</Filter>
+    </Image>
+    <Image Include="Textures\Pionki\czarnySkoczek2.png">
+      <Filter>Pliki zasobów\Textures\Pionki</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Tpion.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Tkoordynaty.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Tpole.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Tszachownica.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Tgoniec.h">
+      <Filter>Pliki nagłówkowe\pionki</Filter>
+    </ClInclude>
+    <ClInclude Include="Thetman.h">
+      <Filter>Pliki nagłówkowe\pionki</Filter>
+    </ClInclude>
+    <ClInclude Include="Tkrol.h">
+      <Filter>Pliki nagłówkowe\pionki</Filter>
+    </ClInclude>
+    <ClInclude Include="Tskoczek.h">
+      <Filter>Pliki nagłówkowe\pionki</Filter>
+    </ClInclude>
+    <ClInclude Include="Twierza.h">
+      <Filter>Pliki nagłówkowe\pionki</Filter>
+    </ClInclude>
+    <ClInclude Include="TzwyklyPionek.h">
+      <Filter>Pliki nagłówkowe\pionki</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

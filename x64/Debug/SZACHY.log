@@ -1,0 +1,20 @@
+﻿  SZACHY.cpp
+  Tgoniec.cpp
+  Thetman.cpp
+  Tkrol.cpp
+  Tpion.cpp
+  Tpole.cpp
+  Tskoczek.cpp
+  Tszachownica.cpp
+E:\RZECZY DO ZOSTAWIENIA PO FORMACIE\raylib-master\projects\VS2019\SZACHY\Tszachownica.cpp(922,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\RZECZY DO ZOSTAWIENIA PO FORMACIE\raylib-master\projects\VS2019\SZACHY\Tszachownica.cpp(923,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\RZECZY DO ZOSTAWIENIA PO FORMACIE\raylib-master\projects\VS2019\SZACHY\Tszachownica.cpp(924,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\RZECZY DO ZOSTAWIENIA PO FORMACIE\raylib-master\projects\VS2019\SZACHY\Tszachownica.cpp(925,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\RZECZY DO ZOSTAWIENIA PO FORMACIE\raylib-master\projects\VS2019\SZACHY\Tszachownica.cpp(948,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\RZECZY DO ZOSTAWIENIA PO FORMACIE\raylib-master\projects\VS2019\SZACHY\Tszachownica.cpp(949,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\RZECZY DO ZOSTAWIENIA PO FORMACIE\raylib-master\projects\VS2019\SZACHY\Tszachownica.cpp(950,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\RZECZY DO ZOSTAWIENIA PO FORMACIE\raylib-master\projects\VS2019\SZACHY\Tszachownica.cpp(951,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Twierza.cpp
+  TzwyklyPionek.cpp
+  Generating Code...
+  SZACHY.vcxproj -> E:\RZECZY DO ZOSTAWIENIA PO FORMACIE\raylib-master\projects\VS2019\x64\Debug\SZACHY.exe

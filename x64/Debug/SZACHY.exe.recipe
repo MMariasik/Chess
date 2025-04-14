@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>E:\RZECZY DO ZOSTAWIENIA PO FORMACIE\raylib-master\projects\VS2019\build\raylib\bin\x64\Debug.DLL\raylib.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>E:\RZECZY DO ZOSTAWIENIA PO FORMACIE\raylib-master\projects\VS2019\x64\Debug\SZACHY.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
